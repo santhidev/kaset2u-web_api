@@ -1,6 +1,0 @@
-@kaset2u_webapi_HostAddress = http://localhost:5081
-
-GET {{kaset2u_webapi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
